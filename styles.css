@@ -1,0 +1,36 @@
+/* body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Press Start 2P', cursive;
+
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 320px 200px;
+  border: 5px solid black;
+}
+
+.right-column {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  border: 2px solid rgb(190, 205, 50);
+}
+
+.game-board {
+  border: 3px solid rgb(128, 105, 0);
+}
+
+.play-button {
+  background-color: #4caf50;
+  font-size: 16px;
+  padding: 15px 30px;
+  cursor: pointer;
+}
+
+
+.next {
+  border: 2px solid black;
+} */
